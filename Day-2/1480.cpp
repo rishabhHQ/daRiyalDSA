@@ -1,6 +1,5 @@
 #include <vector>
 using namespace std;
-
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
@@ -16,3 +15,6 @@ public:
         
     }
 };
+
+// no error went perfrctly well although I mistakelly wrote "i" instead of "nums[i]" in sum part (line 10)
+// but that perfectly fine I got that moment later after running code after getting wrong answer.
