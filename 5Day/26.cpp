@@ -12,13 +12,13 @@ public:
             
             if(nums[a] != nums[b]) {
                 b++;
-                // int temp = nums[a];
+                // int temp = nums[a];      //nah no swapping required
                 nums[b] = nums[a];
-                // nums[b] = temp;
-                // a++;
+                // nums[b] = temp;          //dosnt matter what will later elemets say
+                // a++;                     // just a typoo still to be noted
                 count++;
             }
         }
-        return count;
+        return count+1;                     // yeah wrote count instead of count+1
     }
 };
