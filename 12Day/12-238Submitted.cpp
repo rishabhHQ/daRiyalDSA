@@ -1,3 +1,8 @@
+// Date: 21/02/2026
+
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
