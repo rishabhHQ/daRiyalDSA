@@ -1,3 +1,12 @@
+// Date: 24/02/2026
+// Did on: 25/03/2026
+
+
+// note for me: [ Time taken: 48m 21s ] (almost 1 hour),
+// did 3 attempts just i was not able to convert my thinking into code,
+// took help of (2 hints, 1 algo, 1 pseudocode), still got some error but
+// in the end done NEEDS REVISION
+
 #include <vector>
 using namespace std;
 
