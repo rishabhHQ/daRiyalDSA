@@ -1,4 +1,11 @@
+// Date: 25/02/2026
+// Did on: 26/03/2026
+
+// Note to self:  [ Time taken: 53m 5s ] almost an hour, needed 2 hints, in the end ligic in for loop ////2 is fixed to ////1 with  help 
+// similar to day 15 question (these both come in same category)
+
 #include <vector>
+#include <cstdlib>
 using namespace std;
 
 class Solution {
